@@ -23,13 +23,14 @@ This project analyzes survey responses from approximately 700 data professionals
 ## Key Findings & Visualization
 The final dashboard provides an interactive view of the survey results:
 
-*Insert Image* 
+![Dashboard SS](https://github.com/user-attachments/assets/52ad58c0-4d68-4406-9f95-330697252d77)
 
-- Country Distribution : This allows users to filter data by country to analyze regional trends. The majority of respondents are from the United States, followed by India and other countries. This indicates a strong presence of data professionals in these regions. 
+
+- Country Distribution: This allows users to filter data by country to analyze regional trends. The majority of respondents are from the United States, followed by India and other countries. This indicates a strong presence of data professionals in these regions. 
 
 - Average Salary by Job Title: 
-    - Data Scientist : Has the highest average salary at $630K.
-    - Data Engineer and Data Architect follow closely with average salaries around $50K.
+    - Data Scientist: Has the highest average salary at $630K.
+    - Data engineers and Data Architects follow closely with average salaries of around $50K.
     - Data Analysts and Database Developers have lower average salaries compared to the above roles.
 
 - Favourite Programming Language: A stacked column chart displaying the count of respondents for each programming language. Findings-
@@ -37,14 +38,14 @@ The final dashboard provides an interactive view of the survey results:
     - Other languages like R, JavaScript, and Java also have a significant number of users but are less popular than Python.
 
 - Difficulty to Break into Data: A pie chart illustrating the perceived difficulty levels of entering the data field. Findings-
-    - Difficult : 24.76% of respondents find it difficult to break into the data field.
-    - Very Difficult : 6.98% find it very difficult.
-    - Easy : 21.43% find it easy.
-    - Very Easy : 42.86% find it very easy.
+    - Difficult: 24.76% of respondents find it difficult to break into the data field.
+    - Very Difficult: 6.98% find it very difficult.
+    - Easy: 21.43% find it easy.
+    - Very Easy: 42.86% find it very easy.
 
 - Happiness Metrics: Gauges showing the average ratings for work-life balance and salary satisfaction. Findings-
-    - Happiness with Work-Life Balance : Respondents rate their happiness with work-life balance at an average of 5.74 out of 10.
-    - Happiness with Salary : The average happiness with salary is rated at 4.27 out of 10.
+    - Happiness with Work-Life Balance: Respondents rate their happiness with work-life balance at an average of 5.74 out of 10.
+    - Happiness with Salary: The average happiness with salary is rated at 4.27 out of 10.
 
 ## Conclusion
 This project offers valuable insights into the current state of the data professional community. It highlights the importance of Python as a programming language, the high salaries associated with data science roles, and the varying levels of difficulty in breaking into the field. The dashboard serves as a useful tool for stakeholders to understand the trends and challenges faced by data professionals.
@@ -54,5 +55,5 @@ This project offers valuable insights into the current state of the data profess
 - Incorporate additional factors such as education level, years of experience, and industry type to refine the analysis.
 - Use advanced analytics techniques to uncover deeper correlations within the data.
 
-
-*Note: This project uses a survey conducted by a popular Data Analysis Content Creator and contains actual responses put in by his subscribers.*
+## 
+*Note: This project uses a survey conducted by a popular Data Analysis Content Creator and contains actual responses from his subscribers.*
